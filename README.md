@@ -6,4 +6,4 @@ Ao longo do semestre, os alunos Carolina Soares, Clara Svartz, Gabriel Rogenfisc
 
 A aplicação da função a uma amostra aleatória de decisões do STF mostra que a distribuição da valência se aproxima de uma distribuição normal. Infelizmente, os esforços de validação da ferramenta foram inconclusivos. Quando tentamos construir datasets anotados sistemáticos de decisões do STF, notamos muita discordância entre os anotadores, o que torna difícil usar o conjunto de dados resultante para avaliar a performance da função criada. Esforços futuros devem se iniciar por testes mais rigorosos da ferramenta.
 
-Na construção desse método, usamos ideias descritas em [Avanço...](http://www.producao.usp.br/bitstream/BDPI/48648/1/2652288.pdf) e [Avanço...](https://teste.com).
+Na construção desse método, usamos ideias descritas em [Avanço e Nunes, 2014](http://www.producao.usp.br/bitstream/BDPI/48648/1/2652288.pdf) e [Avanço, 2015](https://www.teses.usp.br/teses/disponiveis/55/55134/tde-24032016-171420/pt-br.php).
